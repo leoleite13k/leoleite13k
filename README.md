@@ -1,11 +1,10 @@
-<h2 align="center">
-Hi there, I'm Leo 👋
-</h2>
-
 <h3 align="center">
+Hi there, I'm Leo 👋
+</h3>
+
+<h2 align="center">
 I'm a Front-end Developer 💻
-</h3> 
-</br>
+</h2> 
 
 ### 🚀 About me
 
