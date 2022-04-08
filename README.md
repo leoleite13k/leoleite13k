@@ -1,8 +1,6 @@
 ### Hi there 👋
 
----
 ### 🚀 About me
----
 
 I'm a software developer passionate about people and code I think my code solves problems for a lot of people and with that I try to change the world for the better.
 
@@ -11,19 +9,19 @@ I'm a software developer passionate about people and code I think my code solves
 👨‍💻 I enjoy developing new things and see how it impact in people lifes.
 
 🔭  I’m currently working on the Ci&T more specially in the Creditas project.
+</br>
+</br>
 
----
 ### 🤝 Connect with me
----
 
 <a href="https://www.linkedin.com/in/leonardo-leite-5b6190125/"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/linkedin.svg" alt="Leonardo | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/leonardotleite/"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/instagram.svg" alt="Leonardo | Instagram" width="21px"/></a>
 <a href="https://twitter.com/leoleite13k"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/twitter.svg" alt="Leonardo | Twitter" width="21px"/></a>
 </br>
+</br>
 
----
 ### 💼  Techical skills
----
+
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=D35736) 
 ![JavaScript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=EBD84D) 
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=4178C1) 
