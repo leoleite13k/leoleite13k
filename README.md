@@ -10,7 +10,7 @@ I'm a Front-end Developer 💻
 
 I'm a software developer passionate about people and code I think my code solves problems for a lot of people and with that I try to change the world for the better.
 
-🎓  I have a degree in Computer of engineering from FHO and always study hard to keep up to date.
+🎓  I have a degree in Computer of Engineering from FHO and always study hard to keep up to date.
 
 👨‍💻 I enjoy developing new things and see how it impact in people lifes.
 
