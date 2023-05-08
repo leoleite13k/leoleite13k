@@ -14,7 +14,7 @@ I'm a software developer passionate about people and code I think my code solves
 
 👨‍💻 I enjoy developing new things and see how it impact in people lifes.
 
-🔭  I’m currently working on the Ci&T more specially in the Creditas project.
+🔭  I’m currently working on the Ci&T more specially in the Creditas project's.
 </br>
 </br>
 
