@@ -3,7 +3,7 @@ Hi there, I'm Leo 👋
 </h3>
 
 <h2 align="center">
-I'm a Senior Software Developer 💻
+I'm a Software Developer 💻
 </h2> 
 
 ### 🚀 About me
