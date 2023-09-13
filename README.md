@@ -3,23 +3,29 @@ Hi there, I'm Leo 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-end Developer 💻
+I'm a Senior Software Developer 💻
 </h2> 
 
 ### 🚀 About me
-
 I'm a software developer passionate about people and code I think my code solves problems for a lot of people and with that I try to change the world for the better.
 
 🎓  I have a degree in Computer of Engineering from FHO and always study hard to keep up to date.
 
 👨‍💻 I enjoy developing new things and see how it impact in people lifes.
 
-🔭  I’m currently working on the Ci&T more specially in the Creditas project's.
+🔭  I’m currently working on the Ci&T project's.
+</br>
+</br>
+
+<div align="center">
+  <a href="https://github.com/leoleite13k">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoleite13k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoleite13k&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </br>
 </br>
 
 ### 🤝 Connect with me
-
 <a href="https://www.linkedin.com/in/leonardo-leite-5b6190125/"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/linkedin.svg" alt="Leonardo | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/leonardotleite/"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/instagram.svg" alt="Leonardo | Instagram" width="21px"/></a>
 <a href="https://twitter.com/leoleite13k"><img align="left" src="https://raw.githubusercontent.com/leoleite13k/leoleite13k/main/images/twitter.svg" alt="Leonardo | Twitter" width="21px"/></a>
